@@ -1,0 +1,11 @@
+Batman, 2.75, 60, 40
+Batman Beyond, 4.00, 37, 10
+Pokemon, 5.00, 15, 100
+Spiderman, 2.50, 1, 50
+Superman, 3.00, 90, 25
+Toy Story, 5.00, 100, 15
+X-Men, 2.00, 0, 25
+The Flash, 4.00, 31, 25
+Reverse Flash, 4.00, 15, 30
+Savitar, 15.00, 4, 20
+Green Arrow, 4.00, 40, 51

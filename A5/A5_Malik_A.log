@@ -1,0 +1,4 @@
+Line 40: Class MSComDlg.CommonDialog of control cdlDialog was not a loaded control class.
+Line 43: The property name _ExtentX in cdlDialog is invalid.
+Line 44: The property name _ExtentY in cdlDialog is invalid.
+Line 45: The property name _Version in cdlDialog is invalid.
